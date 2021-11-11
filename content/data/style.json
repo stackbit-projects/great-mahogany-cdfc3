@@ -2,7 +2,7 @@
     "type": "ThemeStyle",
     "h1": {
         "weight": "normal",
-        "decoration": "none",
+        "decoration": "line-through",
         "case": "none",
         "letterSpacing": "normal"
     },
